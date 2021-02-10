@@ -3,3 +3,5 @@ The device manager scans the device and sends options for the user depending on 
 Once installed, accessing data on the device can prompt new systems and alerts.
 The file manager keeps track of files and where they are located on the memory
 clicking a file triggers other systems to activate depending on the file type. 
+The memory manager decides where files and programs are to be stored for later access
+Memory then contacts the other managers of the files/program being accessed and gives user propts
