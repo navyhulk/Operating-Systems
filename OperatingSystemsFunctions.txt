@@ -5,3 +5,5 @@ The file manager keeps track of files and where they are located on the memory
 clicking a file triggers other systems to activate depending on the file type. 
 The memory manager decides where files and programs are to be stored for later access
 Memory then contacts the other managers of the files/program being accessed and gives user propts
+Currently using macOS Big Sur. There are so many diff between mac and windows… to many to list. I’ve used mac for about a year now but was windows exclusive for most of my life. I prefer the mac because its ease of use and the way in integrates to my other devices. Ex: my phone connects to my laptop as well as my watch to my laptop.  
+operating system is macOS Big Sur v11.2
