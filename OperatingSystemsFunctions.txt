@@ -7,3 +7,19 @@ The memory manager decides where files and programs are to be stored for later a
 Memory then contacts the other managers of the files/program being accessed and gives user propts
 Currently using macOS Big Sur. There are so many diff between mac and windows… to many to list. I’ve used mac for about a year now but was windows exclusive for most of my life. I prefer the mac because its ease of use and the way in integrates to my other devices. Ex: my phone connects to my laptop as well as my watch to my laptop.  
 operating system is macOS Big Sur v11.2
+Commits on Feb 10, 2021
+added my Mac info
+@navyhulk
+navyhulk committed 20 seconds ago
+Verified  ecb3503  
+added memory manager
+@navyhulk
+navyhulk committed 13 minutes ago
+Verified  0fa2338  
+added file manager info
+@navyhulk
+navyhulk committed 17 minutes ago
+Verified  dbffce7  
+Create OperatingSystemsFunctions.txt
+@navyhulk
+navyhulk committed 19 minutes ago
