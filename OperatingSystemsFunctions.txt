@@ -1,3 +1,5 @@
 When plugging in a new device the operating system contacts the device manager.
 The device manager scans the device and sends options for the user depending on the file/device
 Once installed, accessing data on the device can prompt new systems and alerts.
+The file manager keeps track of files and where they are located on the memory
+clicking a file triggers other systems to activate depending on the file type. 
